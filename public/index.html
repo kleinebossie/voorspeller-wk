@@ -157,6 +157,13 @@
         align-items: center;
         gap: 12px;
         border: 1px solid rgba(255, 255, 255, 0.08);
+        cursor: pointer;
+        transition: transform 0.2s ease, border-color 0.2s ease;
+      }
+
+      .prediction-card:hover {
+        transform: translateY(-2px);
+        border-color: rgba(255, 207, 82, 0.45);
       }
 
       .prediction-rank {
@@ -179,6 +186,89 @@
         margin-top: 16px;
         font-size: 0.85rem;
         color: var(--muted);
+      }
+
+      .form-grid {
+        display: grid;
+        gap: 14px;
+      }
+
+      .form-row {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }
+
+      label {
+        font-size: 0.9rem;
+        color: var(--muted);
+      }
+
+      input[type="number"],
+      input[type="text"],
+      textarea {
+        background: var(--glass);
+        color: var(--ink);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 12px;
+        padding: 10px 12px;
+        font-size: 1rem;
+      }
+
+      textarea {
+        min-height: 120px;
+        resize: vertical;
+      }
+
+      .checkbox-row {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 0.95rem;
+        color: var(--muted);
+      }
+
+      .hint {
+        font-size: 0.85rem;
+        color: var(--muted);
+      }
+
+      .multi-grid {
+        display: grid;
+        gap: 16px;
+      }
+
+      .multi-grid select[multiple] {
+        min-height: 140px;
+      }
+
+      .odds-block {
+        margin-top: 16px;
+      }
+
+      .odds-title {
+        font-family: "Bebas Neue", sans-serif;
+        letter-spacing: 0.08em;
+        margin-bottom: 8px;
+        color: var(--muted);
+      }
+
+      .odds-grid {
+        display: grid;
+        gap: 8px;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      .odds-pill {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 8px 12px;
+        border-radius: 12px;
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.08);
       }
 
       @media (max-width: 720px) {
@@ -263,6 +353,128 @@
           <div id="predictions" class="predictions"></div>
           <div class="footer-note">
             Model gebaseerd op odds, implied probabilities en bivariate Poisson.
+            Klik op een kaart om de score direct te gebruiken.
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2>Match of the Day Odds</h2>
+          <div class="match-select">
+            <select id="matchOfDaySelect"></select>
+            <div class="match-meta">
+              <div id="matchOfDayTitle">Select a match</div>
+              <div id="matchOfDayMeta"></div>
+              <div id="matchOfDayBookmaker"></div>
+            </div>
+          </div>
+
+          <div id="matchOfDayPredictions" class="predictions"></div>
+
+          <div class="odds-block">
+            <div class="odds-title">Eerste doelpuntenmaker</div>
+            <ol id="firstScorerList" class="odds-grid"></ol>
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2>Jouw Matchvoorspelling</h2>
+          <div class="form-grid">
+            <div class="form-row">
+              <label for="predHomeGoals">Thuisgoals</label>
+              <input type="number" id="predHomeGoals" min="0" max="20" value="0" />
+            </div>
+            <div class="form-row">
+              <label for="predAwayGoals">Uitgoals</label>
+              <input type="number" id="predAwayGoals" min="0" max="20" value="0" />
+            </div>
+            <label class="checkbox-row">
+              <input type="checkbox" id="matchOfDay" />
+              Match of the day
+            </label>
+            <div class="form-row" id="firstScorerRow">
+              <label for="firstScorerInput">Eerste doelpuntenmaker</label>
+              <input
+                type="text"
+                id="firstScorerInput"
+                placeholder="Naam speler (optioneel)"
+              />
+            </div>
+            <div class="hint">
+              Gebruik de top 3 voorspellingen als snelle invoer of typ je eigen score.
+            </div>
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2>Toernooi Picks</h2>
+          <div class="form-grid">
+            <div class="form-row">
+              <label for="championPick">Wereldkampioen</label>
+              <select id="championPick"></select>
+            </div>
+            <div class="form-row">
+              <label for="thirdPlacePick">3e plek</label>
+              <select id="thirdPlacePick"></select>
+            </div>
+            <div class="form-row">
+              <label for="topScorerPick">Topscorer</label>
+              <select id="topScorerPick"></select>
+            </div>
+          </div>
+          <div class="odds-block">
+            <div class="odds-title">Favorieten volgens odds</div>
+            <div id="championOdds" class="odds-grid"></div>
+            <div id="topScorerOdds" class="odds-grid"></div>
+          </div>
+          <div class="footer-note">Laatste update: <span id="generatedAt">-</span></div>
+          <div id="tournamentNote" class="footer-note"></div>
+        </section>
+
+        <section class="panel">
+          <h2>Knock-out Rondes</h2>
+          <div class="hint">Selecteer meerdere teams met Ctrl/Cmd.</div>
+          <div class="multi-grid">
+            <div class="form-row">
+              <label for="round32Pick">Round of 32</label>
+              <select id="round32Pick" multiple></select>
+            </div>
+            <div class="form-row">
+              <label for="round16Pick">Round of 16</label>
+              <select id="round16Pick" multiple></select>
+            </div>
+            <div class="form-row">
+              <label for="quarterPick">Kwartfinalisten</label>
+              <select id="quarterPick" multiple></select>
+            </div>
+            <div class="form-row">
+              <label for="semiPick">Halvefinalisten</label>
+              <select id="semiPick" multiple></select>
+            </div>
+            <div class="form-row">
+              <label for="thirdPlaceMatchPick">Teams in 3e plek wedstrijd</label>
+              <select id="thirdPlaceMatchPick" multiple></select>
+            </div>
+            <div class="form-row">
+              <label for="finalistPick">Finalisten</label>
+              <select id="finalistPick" multiple></select>
+            </div>
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2>Groepsfase</h2>
+          <div class="form-grid">
+            <div class="form-row">
+              <label for="groupTeamsPick">Teams in correcte groep</label>
+              <select id="groupTeamsPick" multiple></select>
+            </div>
+            <div class="form-row">
+              <label for="groupRanking">Eindstand groep (vrije tekst)</label>
+              <textarea
+                id="groupRanking"
+                placeholder="Groep A: Team 1, Team 2, Team 3, Team 4"
+              ></textarea>
+            </div>
           </div>
         </section>
       </main>

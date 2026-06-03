@@ -2,10 +2,9 @@ const state = {
   matches: [],
   selectedIndex: 0,
   sliders: {
-    riskFactor: 1,
-    goalFactor: 1,
-    continentFactor: 1,
-    chaosFactor: 1,
+    riskFactor: 0,
+    goalFactor: 0,
+    continentFactor: 0,
   },
 };
 
@@ -18,11 +17,9 @@ const elements = {
   riskSlider: document.getElementById("riskFactor"),
   goalSlider: document.getElementById("goalFactor"),
   continentSlider: document.getElementById("continentFactor"),
-  chaosSlider: document.getElementById("chaosFactor"),
   riskValue: document.getElementById("riskValue"),
   goalValue: document.getElementById("goalValue"),
   continentValue: document.getElementById("continentValue"),
-  chaosValue: document.getElementById("chaosValue"),
 };
 
 const americasTeams = new Set([
@@ -111,7 +108,6 @@ const initUI = () => {
   bindSlider(elements.riskSlider, elements.riskValue, "riskFactor");
   bindSlider(elements.goalSlider, elements.goalValue, "goalFactor");
   bindSlider(elements.continentSlider, elements.continentValue, "continentFactor");
-  bindSlider(elements.chaosSlider, elements.chaosValue, "chaosFactor");
 
   elements.matchSelect.addEventListener("change", (event) => {
     state.selectedIndex = Number.parseInt(event.target.value, 10);

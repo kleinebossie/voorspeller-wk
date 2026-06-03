@@ -109,12 +109,13 @@
 
     const avg = (meanHome + meanAway) / 2;
     const diff = meanHome - meanAway;
-    const diffAdjusted = diff * params.riskFactor;
+    const diffAdjusted = diff * (1 - params.riskFactor);
     meanHome = avg + diffAdjusted / 2;
     meanAway = avg - diffAdjusted / 2;
 
-    meanHome *= params.goalFactor;
-    meanAway *= params.goalFactor;
+    const goalMultiplier = 1 + params.goalFactor;
+    meanHome *= goalMultiplier;
+    meanAway *= goalMultiplier;
 
     if (params.homeAmericas) {
       meanHome *= 1 + 0.1 * params.continentFactor;
@@ -123,14 +124,9 @@
       meanAway *= 1 + 0.1 * params.continentFactor;
     }
 
-    const chaosMultiplier = 1 + 0.05 * params.chaosFactor;
-    meanHome *= chaosMultiplier;
-    meanAway *= chaosMultiplier;
-
-    const targetDraw = Math.min(0.55, base.pDraw + 0.04 * params.chaosFactor);
+    const targetDraw = base.pDraw;
     let lambda3 = fitLambda3(meanHome, meanAway, targetDraw);
-    const chaosLambda = lambda3 * (1 + 0.15 * params.chaosFactor);
-    lambda3 = Math.max(0, Math.min(chaosLambda, Math.min(meanHome, meanAway) - 0.001));
+    lambda3 = Math.max(0, Math.min(lambda3, Math.min(meanHome, meanAway) - 0.001));
 
     const lambda1 = Math.max(0.0001, meanHome - lambda3);
     const lambda2 = Math.max(0.0001, meanAway - lambda3);

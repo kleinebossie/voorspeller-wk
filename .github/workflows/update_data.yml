@@ -1,0 +1,38 @@
+name: Update odds data
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch odds
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python scripts/fetch_odds.py
+
+      - name: Commit data if changed
+        run: |
+          if [[ -n "$(git status --porcelain public/data/odds.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add public/data/odds.json
+            git commit -m "chore: update odds data"
+            git push
+          else
+            echo "No changes to commit."
+          fi

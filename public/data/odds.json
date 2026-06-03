@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-06-03T00:00:00Z",
+  "source": "mock",
+  "matches": [
+    {
+      "id": "mock-usa-ned-2026-06-15",
+      "home_team": "United States",
+      "away_team": "Netherlands",
+      "commence_time": "2026-06-15T19:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.25,
+          "draw": 3.35,
+          "away": 3.4
+        },
+        "totals": {
+          "over_2_5": 2.02,
+          "under_2_5": 1.82
+        }
+      },
+      "meta": {
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "mock-bra-por-2026-06-18",
+      "home_team": "Brazil",
+      "away_team": "Portugal",
+      "commence_time": "2026-06-18T16:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.05,
+          "draw": 3.25,
+          "away": 3.8
+        },
+        "totals": {
+          "over_2_5": 1.95,
+          "under_2_5": 1.88
+        }
+      },
+      "meta": {
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "mock-mex-jpn-2026-06-20",
+      "home_team": "Mexico",
+      "away_team": "Japan",
+      "commence_time": "2026-06-20T13:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.55,
+          "draw": 3.1,
+          "away": 2.95
+        },
+        "totals": {
+          "over_2_5": 2.2,
+          "under_2_5": 1.7
+        }
+      },
+      "meta": {
+        "league": "FIFA World Cup"
+      }
+    }
+  ]
+}

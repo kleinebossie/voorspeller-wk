@@ -1,64 +1,1516 @@
 {
-  "generated_at": "2026-06-03T00:00:00Z",
-  "source": "mock",
+  "generated_at": "2026-06-03T09:04:29.489883+00:00",
+  "source": "the-odds-api",
   "matches": [
     {
-      "id": "mock-usa-ned-2026-06-15",
-      "home_team": "United States",
-      "away_team": "Netherlands",
-      "commence_time": "2026-06-15T19:00:00Z",
+      "id": "80d82d1113934bfbea4ce8daf37a2433",
+      "home_team": "Mexico",
+      "away_team": "South Africa",
+      "commence_time": "2026-06-11T19:00:00Z",
       "odds": {
         "h2h": {
-          "home": 2.25,
-          "draw": 3.35,
-          "away": 3.4
+          "home": 1.45,
+          "draw": 4.3,
+          "away": 8.6
         },
         "totals": {
-          "over_2_5": 2.02,
-          "under_2_5": 1.82
+          "over_2_5": 2.05,
+          "under_2_5": 1.78
         }
       },
       "meta": {
+        "bookmaker": "Coolbet",
         "league": "FIFA World Cup"
       }
     },
     {
-      "id": "mock-bra-por-2026-06-18",
+      "id": "384cbb5d76b535896a24fe65f93cfac8",
+      "home_team": "South Korea",
+      "away_team": "Czech Republic",
+      "commence_time": "2026-06-12T02:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.67,
+          "draw": 3.17,
+          "away": 2.9
+        },
+        "totals": {
+          "over_2_5": 2.32,
+          "under_2_5": 1.66
+        }
+      },
+      "meta": {
+        "bookmaker": "BetOnline.ag",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "d1f4f946c70a0b4e81f5d43e9d32361c",
+      "home_team": "Canada",
+      "away_team": "Bosnia & Herzegovina",
+      "commence_time": "2026-06-12T19:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.85,
+          "draw": 3.45,
+          "away": 4.8
+        },
+        "totals": {
+          "over_2_5": 2.2,
+          "under_2_5": 1.6
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (NL)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "c12986f447a515fbe641addd786dbb24",
+      "home_team": "USA",
+      "away_team": "Paraguay",
+      "commence_time": "2026-06-13T01:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.95,
+          "draw": 3.25,
+          "away": 3.6
+        },
+        "totals": {
+          "over_2_5": 2.3,
+          "under_2_5": 1.57
+        }
+      },
+      "meta": {
+        "bookmaker": "William Hill",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "26634922d3f78c146440816023e40de8",
+      "home_team": "Qatar",
+      "away_team": "Switzerland",
+      "commence_time": "2026-06-13T19:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 14.0,
+          "draw": 6.1,
+          "away": 1.24
+        },
+        "totals": {
+          "over_2_5": 1.61,
+          "under_2_5": 2.18
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (SE)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "f6c8748a16516e0998f95de14235432a",
       "home_team": "Brazil",
-      "away_team": "Portugal",
-      "commence_time": "2026-06-18T16:00:00Z",
+      "away_team": "Morocco",
+      "commence_time": "2026-06-13T22:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.62,
+          "draw": 3.91,
+          "away": 6.07
+        },
+        "totals": {
+          "over_2_5": 2.05,
+          "under_2_5": 1.85
+        }
+      },
+      "meta": {
+        "bookmaker": "Pinnacle",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "5ae41a06735c926eeb7f74006933adce",
+      "home_team": "Haiti",
+      "away_team": "Scotland",
+      "commence_time": "2026-06-14T01:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 7.07,
+          "draw": 4.44,
+          "away": 1.49
+        },
+        "totals": {
+          "over_2_5": 1.97,
+          "under_2_5": 1.92
+        }
+      },
+      "meta": {
+        "bookmaker": "Pinnacle",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "564084f52cc9f1abcc18187c168a7cdc",
+      "home_team": "Australia",
+      "away_team": "Turkey",
+      "commence_time": "2026-06-14T04:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 4.77,
+          "draw": 3.74,
+          "away": 1.81
+        },
+        "totals": {
+          "over_2_5": 2.06,
+          "under_2_5": 1.87
+        }
+      },
+      "meta": {
+        "bookmaker": "Coolbet",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "d79edbd6aaeb578d33e313446b18d333",
+      "home_team": "Germany",
+      "away_team": "Cura\u00e7ao",
+      "commence_time": "2026-06-14T17:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.05,
+          "draw": 13.0,
+          "away": 41.0
+        },
+        "totals": {
+          "over_2_5": 1.17,
+          "under_2_5": 4.75
+        }
+      },
+      "meta": {
+        "bookmaker": "William Hill",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "32ec06abda2398ac41501c86eb9aa376",
+      "home_team": "Netherlands",
+      "away_team": "Japan",
+      "commence_time": "2026-06-14T20:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.01,
+          "draw": 3.71,
+          "away": 3.74
+        },
+        "totals": {
+          "over_2_5": 1.98,
+          "under_2_5": 1.91
+        }
+      },
+      "meta": {
+        "bookmaker": "Pinnacle",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "05752bb341e197001387b64f3a06b9b2",
+      "home_team": "Ivory Coast",
+      "away_team": "Ecuador",
+      "commence_time": "2026-06-14T23:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 3.4,
+          "draw": 2.9,
+          "away": 2.2
+        },
+        "totals": {
+          "over_2_5": 2.62,
+          "under_2_5": 1.44
+        }
+      },
+      "meta": {
+        "bookmaker": "William Hill",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "b55f9569de3f4d731bc5537ff5ff43e4",
+      "home_team": "Sweden",
+      "away_team": "Tunisia",
+      "commence_time": "2026-06-15T02:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.95,
+          "draw": 3.4,
+          "away": 4.35
+        },
+        "totals": {
+          "over_2_5": 2.17,
+          "under_2_5": 1.61
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (NL)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "c54f00b11925751d2b62988775c6c239",
+      "home_team": "Spain",
+      "away_team": "Cape Verde",
+      "commence_time": "2026-06-15T16:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.08,
+          "draw": 9.0,
+          "away": 29.0
+        },
+        "totals": {
+          "over_2_5": 1.33,
+          "under_2_5": 3.1
+        }
+      },
+      "meta": {
+        "bookmaker": "William Hill",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "fbfb95c62003fd6d828b309f96ee1f9b",
+      "home_team": "Belgium",
+      "away_team": "Egypt",
+      "commence_time": "2026-06-15T19:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.65,
+          "draw": 4.09,
+          "away": 5.33
+        },
+        "totals": {
+          "over_2_5": 1.88,
+          "under_2_5": 2.01
+        }
+      },
+      "meta": {
+        "bookmaker": "Pinnacle",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "64b91c5f2db61c7358a4f05459e83c52",
+      "home_team": "Saudi Arabia",
+      "away_team": "Uruguay",
+      "commence_time": "2026-06-15T22:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 7.22,
+          "draw": 4.46,
+          "away": 1.48
+        },
+        "totals": {
+          "over_2_5": 1.96,
+          "under_2_5": 1.93
+        }
+      },
+      "meta": {
+        "bookmaker": "Pinnacle",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "ec51b9c44ad5e34552f3ab53f7262813",
+      "home_team": "Iran",
+      "away_team": "New Zealand",
+      "commence_time": "2026-06-16T01:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.8,
+          "draw": 3.4,
+          "away": 4.0
+        },
+        "totals": {
+          "over_2_5": 2.15,
+          "under_2_5": 1.67
+        }
+      },
+      "meta": {
+        "bookmaker": "William Hill",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "73a4fcd14cc9766b9b9bfd50b8ca153a",
+      "home_team": "France",
+      "away_team": "Senegal",
+      "commence_time": "2026-06-16T19:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.45,
+          "draw": 4.63,
+          "away": 7.54
+        },
+        "totals": {
+          "over_2_5": 1.93,
+          "under_2_5": 1.96
+        }
+      },
+      "meta": {
+        "bookmaker": "Pinnacle",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "4d4f2b9b78182b557d4fbf8dcf4f4af2",
+      "home_team": "Iraq",
+      "away_team": "Norway",
+      "commence_time": "2026-06-16T22:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 12.0,
+          "draw": 6.5,
+          "away": 1.23
+        },
+        "totals": {
+          "over_2_5": 1.47,
+          "under_2_5": 2.25
+        }
+      },
+      "meta": {
+        "bookmaker": "PMU (FR)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "f31b2ee9e1cc6f7e641467f8237eaa21",
+      "home_team": "Argentina",
+      "away_team": "Algeria",
+      "commence_time": "2026-06-17T01:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.41,
+          "draw": 4.58,
+          "away": 8.94
+        },
+        "totals": {
+          "over_2_5": 1.93,
+          "under_2_5": 1.95
+        }
+      },
+      "meta": {
+        "bookmaker": "Pinnacle",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "25161cf6cf0cd9be17ae2e7e224a1f45",
+      "home_team": "Austria",
+      "away_team": "Jordan",
+      "commence_time": "2026-06-17T04:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.32,
+          "draw": 5.75,
+          "away": 10.0
+        },
+        "totals": {
+          "over_2_5": 1.54,
+          "under_2_5": 2.32
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (NL)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "6cc871c121a1869b4612d3fb22fa9d55",
+      "home_team": "Portugal",
+      "away_team": "DR Congo",
+      "commence_time": "2026-06-17T17:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.25,
+          "draw": 5.5,
+          "away": 10.0
+        },
+        "totals": {
+          "over_2_5": 1.57,
+          "under_2_5": 2.25
+        }
+      },
+      "meta": {
+        "bookmaker": "William Hill",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "689096c8cd7e2753b9fec95321943c5d",
+      "home_team": "England",
+      "away_team": "Croatia",
+      "commence_time": "2026-06-17T20:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.75,
+          "draw": 3.75,
+          "away": 5.25
+        },
+        "totals": {
+          "over_2_5": 2.05,
+          "under_2_5": 1.78
+        }
+      },
+      "meta": {
+        "bookmaker": "Coolbet",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "87afdb85c977b451e1c00f5e3e632601",
+      "home_team": "Ghana",
+      "away_team": "Panama",
+      "commence_time": "2026-06-17T23:00:00Z",
       "odds": {
         "h2h": {
           "home": 2.05,
-          "draw": 3.25,
-          "away": 3.8
+          "draw": 3.5,
+          "away": 3.85
         },
         "totals": {
-          "over_2_5": 1.95,
+          "over_2_5": 2.12,
+          "under_2_5": 1.73
+        }
+      },
+      "meta": {
+        "bookmaker": "Coolbet",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "22083e7a8e5362c711bc05c1e1319a1f",
+      "home_team": "Uzbekistan",
+      "away_team": "Colombia",
+      "commence_time": "2026-06-18T02:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 8.52,
+          "draw": 4.6,
+          "away": 1.42
+        },
+        "totals": {
+          "over_2_5": 1.96,
+          "under_2_5": 1.93
+        }
+      },
+      "meta": {
+        "bookmaker": "Pinnacle",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "66ebb9e3f949caded535d97ce686ca09",
+      "home_team": "Czech Republic",
+      "away_team": "South Africa",
+      "commence_time": "2026-06-18T16:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.1,
+          "draw": 3.1,
+          "away": 4.0
+        },
+        "totals": {
+          "over_2_5": 2.23,
+          "under_2_5": 1.57
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (SE)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "289bc2e9f5adad8ae4d9a75a7c5461ad",
+      "home_team": "Switzerland",
+      "away_team": "Bosnia & Herzegovina",
+      "commence_time": "2026-06-18T19:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.57,
+          "draw": 4.1,
+          "away": 5.8
+        },
+        "totals": {
+          "over_2_5": 1.85,
+          "under_2_5": 1.85
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (SE)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "fa9502285b257b03e62968d50d9229fc",
+      "home_team": "Canada",
+      "away_team": "Qatar",
+      "commence_time": "2026-06-18T22:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.35,
+          "draw": 5.0,
+          "away": 9.0
+        },
+        "totals": {
+          "over_2_5": 1.96,
+          "under_2_5": 1.74
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (SE)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "0f2aeae6ac8e77223848d23a4ca86b0d",
+      "home_team": "Mexico",
+      "away_team": "South Korea",
+      "commence_time": "2026-06-19T01:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.85,
+          "draw": 3.4,
+          "away": 4.6
+        },
+        "totals": {
+          "over_2_5": 2.17,
+          "under_2_5": 1.61
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (SE)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "065b3573e875f8d23803357f73e5b99e",
+      "home_team": "USA",
+      "away_team": "Australia",
+      "commence_time": "2026-06-19T19:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.75,
+          "draw": 3.74,
+          "away": 4.74
+        },
+        "totals": {
+          "over_2_5": 2.07,
+          "under_2_5": 1.79
+        }
+      },
+      "meta": {
+        "bookmaker": "GTbets",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "4cd769aa7bae0ad9762bd69b80ef2903",
+      "home_team": "Scotland",
+      "away_team": "Morocco",
+      "commence_time": "2026-06-19T22:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 3.75,
+          "draw": 3.2,
+          "away": 2.1
+        },
+        "totals": {
+          "over_2_5": 2.23,
+          "under_2_5": 1.57
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (SE)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "ef0f74a991d3e35798ae5af77667bce1",
+      "home_team": "Brazil",
+      "away_team": "Haiti",
+      "commence_time": "2026-06-20T01:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.06,
+          "draw": 12.0,
+          "away": 46.0
+        },
+        "totals": {
+          "over_2_5": 1.22,
+          "under_2_5": 3.9
+        }
+      },
+      "meta": {
+        "bookmaker": "William Hill",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "f955d4b3395ce6e3b5ac1031ca52ca4e",
+      "home_team": "Turkey",
+      "away_team": "Paraguay",
+      "commence_time": "2026-06-20T03:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.3,
+          "draw": 3.1,
+          "away": 3.4
+        },
+        "totals": {
+          "over_2_5": 2.3,
+          "under_2_5": 1.55
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (NL)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "4f0c518545b0096c68326daf25bffc1e",
+      "home_team": "Netherlands",
+      "away_team": "Sweden",
+      "commence_time": "2026-06-20T17:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.73,
+          "draw": 3.8,
+          "away": 4.75
+        },
+        "totals": {
+          "over_2_5": 1.83,
+          "under_2_5": 1.74
+        }
+      },
+      "meta": {
+        "bookmaker": "PMU (FR)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "f1ab0f69832972a329243522ceaa7804",
+      "home_team": "Germany",
+      "away_team": "Ivory Coast",
+      "commence_time": "2026-06-20T20:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.54,
+          "draw": 4.25,
+          "away": 6.0
+        },
+        "totals": {
+          "over_2_5": 1.68,
           "under_2_5": 1.88
         }
       },
       "meta": {
+        "bookmaker": "PMU (FR)",
         "league": "FIFA World Cup"
       }
     },
     {
-      "id": "mock-mex-jpn-2026-06-20",
-      "home_team": "Mexico",
-      "away_team": "Japan",
-      "commence_time": "2026-06-20T13:00:00Z",
+      "id": "681895f294b670b4c7b14495dfb583bc",
+      "home_team": "Ecuador",
+      "away_team": "Cura\u00e7ao",
+      "commence_time": "2026-06-21T00:00:00Z",
       "odds": {
         "h2h": {
-          "home": 2.55,
-          "draw": 3.1,
-          "away": 2.95
+          "home": 1.25,
+          "draw": 6.0,
+          "away": 12.0
         },
         "totals": {
-          "over_2_5": 2.2,
+          "over_2_5": 1.7,
+          "under_2_5": 1.88
+        }
+      },
+      "meta": {
+        "bookmaker": "PMU (FR)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "dfc5202cf1b8ae002cf952cd04f235b9",
+      "home_team": "Tunisia",
+      "away_team": "Japan",
+      "commence_time": "2026-06-21T04:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 4.75,
+          "draw": 3.35,
+          "away": 1.85
+        },
+        "totals": {
+          "over_2_5": 2.28,
+          "under_2_5": 1.45
+        }
+      },
+      "meta": {
+        "bookmaker": "PMU (FR)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "73529a242e319a86bf3d00ddb4accc37",
+      "home_team": "Spain",
+      "away_team": "Saudi Arabia",
+      "commence_time": "2026-06-21T16:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.1,
+          "draw": 9.0,
+          "away": 23.0
+        },
+        "totals": {
+          "over_2_5": 1.44,
+          "under_2_5": 2.5
+        }
+      },
+      "meta": {
+        "bookmaker": "William Hill",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "5f92f257386ec5bf7c6e2498a21f3a61",
+      "home_team": "Belgium",
+      "away_team": "Iran",
+      "commence_time": "2026-06-21T19:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.38,
+          "draw": 4.55,
+          "away": 7.59
+        },
+        "totals": {
+          "over_2_5": 1.84,
+          "under_2_5": 1.94
+        }
+      },
+      "meta": {
+        "bookmaker": "Pinnacle",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "852a3abe6d46820720febc0fedebff9a",
+      "home_team": "Uruguay",
+      "away_team": "Cape Verde",
+      "commence_time": "2026-06-21T22:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.44,
+          "draw": 4.5,
+          "away": 7.0
+        },
+        "totals": {
+          "over_2_5": 1.78,
+          "under_2_5": 1.78
+        }
+      },
+      "meta": {
+        "bookmaker": "PMU (FR)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "c1ec9a65f4b4cf74477b368a7d6282de",
+      "home_team": "New Zealand",
+      "away_team": "Egypt",
+      "commence_time": "2026-06-22T01:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 5.0,
+          "draw": 3.6,
+          "away": 1.75
+        },
+        "totals": {
+          "over_2_5": 2.04,
+          "under_2_5": 1.57
+        }
+      },
+      "meta": {
+        "bookmaker": "PMU (FR)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "be6c63f416c67bca1300a98f5b89c3af",
+      "home_team": "Argentina",
+      "away_team": "Austria",
+      "commence_time": "2026-06-22T17:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.65,
+          "draw": 3.75,
+          "away": 5.5
+        },
+        "totals": {
+          "over_2_5": 1.88,
           "under_2_5": 1.7
         }
       },
       "meta": {
+        "bookmaker": "PMU (FR)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "7ad7a0ce2ef2618bb59b066da5642f70",
+      "home_team": "France",
+      "away_team": "Iraq",
+      "commence_time": "2026-06-22T21:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.1,
+          "draw": 9.0,
+          "away": 26.0
+        },
+        "totals": {
+          "over_2_5": 1.44,
+          "under_2_5": 2.5
+        }
+      },
+      "meta": {
+        "bookmaker": "William Hill",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "3f48473742ca0fd2a85930554720c75e",
+      "home_team": "Norway",
+      "away_team": "Senegal",
+      "commence_time": "2026-06-23T00:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.16,
+          "draw": 3.54,
+          "away": 3.52
+        },
+        "totals": {
+          "over_2_5": 1.94,
+          "under_2_5": 1.88
+        }
+      },
+      "meta": {
+        "bookmaker": "1xBet",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "fd8533b650e655030f6a7946f8795db2",
+      "home_team": "Jordan",
+      "away_team": "Algeria",
+      "commence_time": "2026-06-23T03:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 5.55,
+          "draw": 3.94,
+          "away": 1.68
+        },
+        "totals": {
+          "over_2_5": 1.96,
+          "under_2_5": 1.86
+        }
+      },
+      "meta": {
+        "bookmaker": "1xBet",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "8ba93d190f1f934e33862a97a6353a6e",
+      "home_team": "Portugal",
+      "away_team": "Uzbekistan",
+      "commence_time": "2026-06-23T17:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.22,
+          "draw": 5.5,
+          "away": 12.0
+        },
+        "totals": {
+          "over_2_5": 1.5,
+          "under_2_5": 2.4
+        }
+      },
+      "meta": {
+        "bookmaker": "William Hill",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "2f49dd8deae3079dc4eb2d634d18a99c",
+      "home_team": "England",
+      "away_team": "Ghana",
+      "commence_time": "2026-06-23T20:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.35,
+          "draw": 5.0,
+          "away": 9.0
+        },
+        "totals": {
+          "over_2_5": 1.61,
+          "under_2_5": 2.0
+        }
+      },
+      "meta": {
+        "bookmaker": "PMU (FR)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "c1bc8c26480cd42b89a0de5329581314",
+      "home_team": "Panama",
+      "away_team": "Croatia",
+      "commence_time": "2026-06-23T23:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 7.0,
+          "draw": 4.1,
+          "away": 1.5
+        },
+        "totals": {
+          "over_2_5": 1.89,
+          "under_2_5": 1.67
+        }
+      },
+      "meta": {
+        "bookmaker": "PMU (FR)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "68bfc965eb267508e04d8e8d75c1a0ae",
+      "home_team": "Colombia",
+      "away_team": "DR Congo",
+      "commence_time": "2026-06-24T02:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.45,
+          "draw": 4.3,
+          "away": 7.5
+        },
+        "totals": {
+          "over_2_5": 2.12,
+          "under_2_5": 1.65
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (NL)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "512ac18beb5aa936a59f7ea3e497ada2",
+      "home_team": "Bosnia & Herzegovina",
+      "away_team": "Qatar",
+      "commence_time": "2026-06-24T19:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.55,
+          "draw": 3.8,
+          "away": 5.7
+        },
+        "totals": {
+          "over_2_5": 1.93,
+          "under_2_5": 1.75
+        }
+      },
+      "meta": {
+        "bookmaker": "Tipico",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "c9ef5822ee64fd5275f7c73251bb56c7",
+      "home_team": "Switzerland",
+      "away_team": "Canada",
+      "commence_time": "2026-06-24T19:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.05,
+          "draw": 3.2,
+          "away": 3.5
+        },
+        "totals": {
+          "over_2_5": 2.05,
+          "under_2_5": 1.67
+        }
+      },
+      "meta": {
+        "bookmaker": "Tipico",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "885ba95805db310a7bcc3fb1a7a6dd28",
+      "home_team": "Scotland",
+      "away_team": "Brazil",
+      "commence_time": "2026-06-24T22:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 8.0,
+          "draw": 5.0,
+          "away": 1.36
+        },
+        "totals": {
+          "over_2_5": 1.74,
+          "under_2_5": 1.83
+        }
+      },
+      "meta": {
+        "bookmaker": "PMU (FR)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "d1279ce7f33136a33e99ad442fc855e8",
+      "home_team": "Morocco",
+      "away_team": "Haiti",
+      "commence_time": "2026-06-24T22:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.2,
+          "draw": 5.7,
+          "away": 13.0
+        },
+        "totals": {
+          "over_2_5": 1.57,
+          "under_2_5": 2.25
+        }
+      },
+      "meta": {
+        "bookmaker": "Tipico",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "5993bd5196ca09f83990f0c3261e442e",
+      "home_team": "Czech Republic",
+      "away_team": "Mexico",
+      "commence_time": "2026-06-25T01:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 4.3,
+          "draw": 3.39,
+          "away": 1.95
+        },
+        "totals": {
+          "over_2_5": 2.11,
+          "under_2_5": 1.7
+        }
+      },
+      "meta": {
+        "bookmaker": "GTbets",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "c0355dfc6e26ec327e379b6ef5824a5f",
+      "home_team": "South Africa",
+      "away_team": "South Korea",
+      "commence_time": "2026-06-25T01:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 3.84,
+          "draw": 3.35,
+          "away": 2.03
+        },
+        "totals": {
+          "over_2_5": 2.11,
+          "under_2_5": 1.7
+        }
+      },
+      "meta": {
+        "bookmaker": "GTbets",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "a5a0b544a984ab16e564264f3e859b43",
+      "home_team": "Cura\u00e7ao",
+      "away_team": "Ivory Coast",
+      "commence_time": "2026-06-25T20:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 9.23,
+          "draw": 5.19,
+          "away": 1.33
+        },
+        "totals": {
+          "over_2_5": 1.77,
+          "under_2_5": 2.02
+        }
+      },
+      "meta": {
+        "bookmaker": "GTbets",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "0ec28b84ec399bd4dffbe8d1bc72b3c4",
+      "home_team": "Ecuador",
+      "away_team": "Germany",
+      "commence_time": "2026-06-25T20:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 4.92,
+          "draw": 3.92,
+          "away": 1.68
+        },
+        "totals": {
+          "over_2_5": 1.87,
+          "under_2_5": 1.91
+        }
+      },
+      "meta": {
+        "bookmaker": "GTbets",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "0ed0233bddc4eafc8507f86a9c17b998",
+      "home_team": "Japan",
+      "away_team": "Sweden",
+      "commence_time": "2026-06-25T23:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.0,
+          "draw": 3.3,
+          "away": 3.5
+        },
+        "totals": {
+          "over_2_5": 1.97,
+          "under_2_5": 1.72
+        }
+      },
+      "meta": {
+        "bookmaker": "Tipico",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "f3c4657daa143a0c5bd62cb370d01ce4",
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
+      "commence_time": "2026-06-25T23:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 6.14,
+          "draw": 4.12,
+          "away": 1.61
+        },
+        "totals": {
+          "over_2_5": 1.88,
+          "under_2_5": 1.88
+        }
+      },
+      "meta": {
+        "bookmaker": "GTbets",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "22f6ac06dfcc88a847920f62633e6459",
+      "home_team": "Paraguay",
+      "away_team": "Australia",
+      "commence_time": "2026-06-26T02:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.15,
+          "draw": 3.1,
+          "away": 3.4
+        },
+        "totals": {
+          "over_2_5": 2.25,
+          "under_2_5": 1.57
+        }
+      },
+      "meta": {
+        "bookmaker": "Tipico",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "f41aeac9a8343a84b4950f15ea25fba2",
+      "home_team": "Turkey",
+      "away_team": "USA",
+      "commence_time": "2026-06-26T02:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.71,
+          "draw": 3.41,
+          "away": 2.59
+        },
+        "totals": {
+          "over_2_5": 2.01,
+          "under_2_5": 1.78
+        }
+      },
+      "meta": {
+        "bookmaker": "GTbets",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "b86b4d60f773e9e3c46c00e9a6496e79",
+      "home_team": "Norway",
+      "away_team": "France",
+      "commence_time": "2026-06-26T19:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 4.62,
+          "draw": 3.66,
+          "away": 1.78
+        },
+        "totals": {
+          "over_2_5": 1.98,
+          "under_2_5": 1.81
+        }
+      },
+      "meta": {
+        "bookmaker": "GTbets",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "7e6aee294ea1a4792c59558791084528",
+      "home_team": "Senegal",
+      "away_team": "Iraq",
+      "commence_time": "2026-06-26T19:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.45,
+          "draw": 4.31,
+          "away": 6.94
+        },
+        "totals": {
+          "over_2_5": 1.91,
+          "under_2_5": 1.87
+        }
+      },
+      "meta": {
+        "bookmaker": "GTbets",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "e07b1926be5a4d515c7eb108dbcee9c5",
+      "home_team": "Cape Verde",
+      "away_team": "Saudi Arabia",
+      "commence_time": "2026-06-27T00:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.45,
+          "draw": 3.2,
+          "away": 2.75
+        },
+        "totals": {
+          "over_2_5": 2.2,
+          "under_2_5": 1.6
+        }
+      },
+      "meta": {
+        "bookmaker": "Tipico",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "dcff2e31c0bce001a4db5caaf4fa8822",
+      "home_team": "Uruguay",
+      "away_team": "Spain",
+      "commence_time": "2026-06-27T00:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 5.3,
+          "draw": 3.8,
+          "away": 1.57
+        },
+        "totals": {
+          "over_2_5": 1.83,
+          "under_2_5": 1.85
+        }
+      },
+      "meta": {
+        "bookmaker": "Tipico",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "581691da05dcd75b5c6d3be91ee9d2ab",
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
+      "commence_time": "2026-06-27T03:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 9.71,
+          "draw": 5.74,
+          "away": 1.3
+        },
+        "totals": {
+          "over_2_5": 1.65,
+          "under_2_5": 2.15
+        }
+      },
+      "meta": {
+        "bookmaker": "GTbets",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "3e3b5fa2b3c963e74cf044c60db0b573",
+      "home_team": "Egypt",
+      "away_team": "Iran",
+      "commence_time": "2026-06-27T03:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.4,
+          "draw": 3.0,
+          "away": 3.1
+        },
+        "totals": {
+          "over_2_5": 2.23,
+          "under_2_5": 1.57
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (NL)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "537c0997cd899394f47f16545b7068b2",
+      "home_team": "Croatia",
+      "away_team": "Ghana",
+      "commence_time": "2026-06-27T21:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 1.65,
+          "draw": 3.6,
+          "away": 4.9
+        },
+        "totals": {
+          "over_2_5": 2.0,
+          "under_2_5": 1.7
+        }
+      },
+      "meta": {
+        "bookmaker": "Tipico",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "4be17c8e1ccfecb0f2a5ef79e045c415",
+      "home_team": "Panama",
+      "away_team": "England",
+      "commence_time": "2026-06-27T21:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 12.0,
+          "draw": 5.7,
+          "away": 1.22
+        },
+        "totals": {
+          "over_2_5": 1.6,
+          "under_2_5": 2.2
+        }
+      },
+      "meta": {
+        "bookmaker": "Tipico",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "67ae5751c401a98409b8566ae4897069",
+      "home_team": "Colombia",
+      "away_team": "Portugal",
+      "commence_time": "2026-06-27T23:30:00Z",
+      "odds": {
+        "h2h": {
+          "home": 3.4,
+          "draw": 3.25,
+          "away": 2.14
+        },
+        "totals": {
+          "over_2_5": 2.12,
+          "under_2_5": 1.64
+        }
+      },
+      "meta": {
+        "bookmaker": "Unibet (SE)",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "13eab94a136b9c264ba974cf437a5f71",
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
+      "commence_time": "2026-06-27T23:30:00Z",
+      "odds": {
+        "h2h": {
+          "home": 2.45,
+          "draw": 3.1,
+          "away": 2.8
+        },
+        "totals": {
+          "over_2_5": 2.2,
+          "under_2_5": 1.6
+        }
+      },
+      "meta": {
+        "bookmaker": "Tipico",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "8756200e539155e571557c4f2e0d7f05",
+      "home_team": "Algeria",
+      "away_team": "Austria",
+      "commence_time": "2026-06-28T02:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 3.32,
+          "draw": 3.15,
+          "away": 2.3
+        },
+        "totals": {
+          "over_2_5": 2.17,
+          "under_2_5": 1.66
+        }
+      },
+      "meta": {
+        "bookmaker": "GTbets",
+        "league": "FIFA World Cup"
+      }
+    },
+    {
+      "id": "54697f453437ab26276d773be1d72e9b",
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "commence_time": "2026-06-28T02:00:00Z",
+      "odds": {
+        "h2h": {
+          "home": 14.2,
+          "draw": 7.14,
+          "away": 1.21
+        },
+        "totals": {
+          "over_2_5": 1.56,
+          "under_2_5": 2.38
+        }
+      },
+      "meta": {
+        "bookmaker": "GTbets",
         "league": "FIFA World Cup"
       }
     }

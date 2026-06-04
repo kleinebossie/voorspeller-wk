@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T09:04:29.489883+00:00",
+  "generated_at": "2026-06-04T06:37:08.380174+00:00",
   "source": "the-odds-api",
   "matches": [
     {
@@ -9,14 +9,15 @@
       "commence_time": "2026-06-11T19:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.45,
-          "draw": 4.3,
-          "away": 8.6
+          "home": 1.44,
+          "draw": 4.5,
+          "away": 9.0
         },
         "totals": {
           "over_2_5": 2.05,
           "under_2_5": 1.78
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Coolbet",
@@ -37,7 +38,8 @@
         "totals": {
           "over_2_5": 2.32,
           "under_2_5": 1.66
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "BetOnline.ag",
@@ -58,7 +60,8 @@
         "totals": {
           "over_2_5": 2.2,
           "under_2_5": 1.6
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (NL)",
@@ -79,7 +82,8 @@
         "totals": {
           "over_2_5": 2.3,
           "under_2_5": 1.57
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "William Hill",
@@ -94,13 +98,14 @@
       "odds": {
         "h2h": {
           "home": 14.0,
-          "draw": 6.1,
-          "away": 1.24
+          "draw": 6.25,
+          "away": 1.23
         },
         "totals": {
-          "over_2_5": 1.61,
-          "under_2_5": 2.18
-        }
+          "over_2_5": 1.6,
+          "under_2_5": 2.2
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (SE)",
@@ -114,17 +119,18 @@
       "commence_time": "2026-06-13T22:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.62,
-          "draw": 3.91,
-          "away": 6.07
+          "home": 1.64,
+          "draw": 4.0,
+          "away": 6.0
         },
         "totals": {
-          "over_2_5": 2.05,
-          "under_2_5": 1.85
-        }
+          "over_2_5": 2.0,
+          "under_2_5": 1.82
+        },
+        "first_scorer": []
       },
       "meta": {
-        "bookmaker": "Pinnacle",
+        "bookmaker": "Coolbet",
         "league": "FIFA World Cup"
       }
     },
@@ -135,14 +141,15 @@
       "commence_time": "2026-06-14T01:00:00Z",
       "odds": {
         "h2h": {
-          "home": 7.07,
-          "draw": 4.44,
-          "away": 1.49
+          "home": 6.95,
+          "draw": 4.43,
+          "away": 1.5
         },
         "totals": {
           "over_2_5": 1.97,
           "under_2_5": 1.92
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Pinnacle",
@@ -156,14 +163,15 @@
       "commence_time": "2026-06-14T04:00:00Z",
       "odds": {
         "h2h": {
-          "home": 4.77,
-          "draw": 3.74,
-          "away": 1.81
+          "home": 4.75,
+          "draw": 3.75,
+          "away": 1.8
         },
         "totals": {
-          "over_2_5": 2.06,
-          "under_2_5": 1.87
-        }
+          "over_2_5": 2.0,
+          "under_2_5": 1.82
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Coolbet",
@@ -184,7 +192,8 @@
         "totals": {
           "over_2_5": 1.17,
           "under_2_5": 4.75
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "William Hill",
@@ -198,14 +207,15 @@
       "commence_time": "2026-06-14T20:00:00Z",
       "odds": {
         "h2h": {
-          "home": 2.01,
-          "draw": 3.71,
-          "away": 3.74
+          "home": 1.99,
+          "draw": 3.73,
+          "away": 3.8
         },
         "totals": {
           "over_2_5": 1.98,
           "under_2_5": 1.91
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Pinnacle",
@@ -226,7 +236,8 @@
         "totals": {
           "over_2_5": 2.62,
           "under_2_5": 1.44
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "William Hill",
@@ -247,7 +258,8 @@
         "totals": {
           "over_2_5": 2.17,
           "under_2_5": 1.61
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (NL)",
@@ -262,13 +274,14 @@
       "odds": {
         "h2h": {
           "home": 1.08,
-          "draw": 9.0,
+          "draw": 9.5,
           "away": 29.0
         },
         "totals": {
           "over_2_5": 1.33,
           "under_2_5": 3.1
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "William Hill",
@@ -282,14 +295,15 @@
       "commence_time": "2026-06-15T19:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.65,
-          "draw": 4.09,
-          "away": 5.33
+          "home": 1.68,
+          "draw": 3.97,
+          "away": 5.32
         },
         "totals": {
-          "over_2_5": 1.88,
-          "under_2_5": 2.01
-        }
+          "over_2_5": 1.98,
+          "under_2_5": 1.91
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Pinnacle",
@@ -303,14 +317,15 @@
       "commence_time": "2026-06-15T22:00:00Z",
       "odds": {
         "h2h": {
-          "home": 7.22,
+          "home": 7.29,
           "draw": 4.46,
           "away": 1.48
         },
         "totals": {
-          "over_2_5": 1.96,
-          "under_2_5": 1.93
-        }
+          "over_2_5": 1.98,
+          "under_2_5": 1.91
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Pinnacle",
@@ -331,7 +346,8 @@
         "totals": {
           "over_2_5": 2.15,
           "under_2_5": 1.67
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "William Hill",
@@ -352,7 +368,8 @@
         "totals": {
           "over_2_5": 1.93,
           "under_2_5": 1.96
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Pinnacle",
@@ -366,14 +383,15 @@
       "commence_time": "2026-06-16T22:00:00Z",
       "odds": {
         "h2h": {
-          "home": 12.0,
-          "draw": 6.5,
+          "home": 11.5,
+          "draw": 6.75,
           "away": 1.23
         },
         "totals": {
           "over_2_5": 1.47,
           "under_2_5": 2.25
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "PMU (FR)",
@@ -388,13 +406,14 @@
       "odds": {
         "h2h": {
           "home": 1.41,
-          "draw": 4.58,
-          "away": 8.94
+          "draw": 4.55,
+          "away": 9.01
         },
         "totals": {
-          "over_2_5": 1.93,
-          "under_2_5": 1.95
-        }
+          "over_2_5": 1.97,
+          "under_2_5": 1.92
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Pinnacle",
@@ -415,7 +434,8 @@
         "totals": {
           "over_2_5": 1.54,
           "under_2_5": 2.32
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (NL)",
@@ -429,17 +449,18 @@
       "commence_time": "2026-06-17T17:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.25,
-          "draw": 5.5,
-          "away": 10.0
+          "home": 1.27,
+          "draw": 6.0,
+          "away": 11.5
         },
         "totals": {
-          "over_2_5": 1.57,
-          "under_2_5": 2.25
-        }
+          "over_2_5": 1.51,
+          "under_2_5": 2.35
+        },
+        "first_scorer": []
       },
       "meta": {
-        "bookmaker": "William Hill",
+        "bookmaker": "Unibet (SE)",
         "league": "FIFA World Cup"
       }
     },
@@ -451,13 +472,14 @@
       "odds": {
         "h2h": {
           "home": 1.75,
-          "draw": 3.75,
-          "away": 5.25
+          "draw": 3.85,
+          "away": 5.0
         },
         "totals": {
           "over_2_5": 2.05,
           "under_2_5": 1.78
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Coolbet",
@@ -471,17 +493,18 @@
       "commence_time": "2026-06-17T23:00:00Z",
       "odds": {
         "h2h": {
-          "home": 2.05,
-          "draw": 3.5,
-          "away": 3.85
+          "home": 1.95,
+          "draw": 3.3,
+          "away": 3.5
         },
         "totals": {
-          "over_2_5": 2.12,
-          "under_2_5": 1.73
-        }
+          "over_2_5": 2.05,
+          "under_2_5": 1.7
+        },
+        "first_scorer": []
       },
       "meta": {
-        "bookmaker": "Coolbet",
+        "bookmaker": "William Hill",
         "league": "FIFA World Cup"
       }
     },
@@ -492,14 +515,15 @@
       "commence_time": "2026-06-18T02:00:00Z",
       "odds": {
         "h2h": {
-          "home": 8.52,
-          "draw": 4.6,
-          "away": 1.42
+          "home": 8.5,
+          "draw": 4.56,
+          "away": 1.43
         },
         "totals": {
-          "over_2_5": 1.96,
-          "under_2_5": 1.93
-        }
+          "over_2_5": 1.99,
+          "under_2_5": 1.9
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Pinnacle",
@@ -513,14 +537,15 @@
       "commence_time": "2026-06-18T16:00:00Z",
       "odds": {
         "h2h": {
-          "home": 2.1,
-          "draw": 3.1,
-          "away": 4.0
+          "home": 2.02,
+          "draw": 3.3,
+          "away": 4.1
         },
         "totals": {
           "over_2_5": 2.23,
           "under_2_5": 1.57
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (SE)",
@@ -534,14 +559,15 @@
       "commence_time": "2026-06-18T19:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.57,
-          "draw": 4.1,
-          "away": 5.8
+          "home": 1.6,
+          "draw": 3.95,
+          "away": 6.25
         },
         "totals": {
-          "over_2_5": 1.85,
-          "under_2_5": 1.85
-        }
+          "over_2_5": 1.94,
+          "under_2_5": 1.76
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (SE)",
@@ -555,14 +581,15 @@
       "commence_time": "2026-06-18T22:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.35,
-          "draw": 5.0,
-          "away": 9.0
+          "home": 1.34,
+          "draw": 4.9,
+          "away": 11.0
         },
         "totals": {
-          "over_2_5": 1.96,
-          "under_2_5": 1.74
-        }
+          "over_2_5": 1.89,
+          "under_2_5": 1.8
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (SE)",
@@ -576,14 +603,15 @@
       "commence_time": "2026-06-19T01:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.85,
-          "draw": 3.4,
-          "away": 4.6
+          "home": 1.83,
+          "draw": 3.45,
+          "away": 4.8
         },
         "totals": {
-          "over_2_5": 2.17,
-          "under_2_5": 1.61
-        }
+          "over_2_5": 2.16,
+          "under_2_5": 1.62
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (SE)",
@@ -604,7 +632,8 @@
         "totals": {
           "over_2_5": 2.07,
           "under_2_5": 1.79
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "GTbets",
@@ -618,14 +647,15 @@
       "commence_time": "2026-06-19T22:00:00Z",
       "odds": {
         "h2h": {
-          "home": 3.75,
-          "draw": 3.2,
-          "away": 2.1
+          "home": 4.2,
+          "draw": 3.3,
+          "away": 1.97
         },
         "totals": {
           "over_2_5": 2.23,
           "under_2_5": 1.57
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (SE)",
@@ -639,14 +669,15 @@
       "commence_time": "2026-06-20T01:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.06,
-          "draw": 12.0,
-          "away": 46.0
+          "home": 1.07,
+          "draw": 11.0,
+          "away": 29.0
         },
         "totals": {
-          "over_2_5": 1.22,
-          "under_2_5": 3.9
-        }
+          "over_2_5": 1.25,
+          "under_2_5": 3.75
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "William Hill",
@@ -667,7 +698,8 @@
         "totals": {
           "over_2_5": 2.3,
           "under_2_5": 1.55
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (NL)",
@@ -681,14 +713,15 @@
       "commence_time": "2026-06-20T17:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.73,
-          "draw": 3.8,
-          "away": 4.75
+          "home": 1.64,
+          "draw": 4.0,
+          "away": 5.25
         },
         "totals": {
           "over_2_5": 1.83,
           "under_2_5": 1.74
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "PMU (FR)",
@@ -709,7 +742,8 @@
         "totals": {
           "over_2_5": 1.68,
           "under_2_5": 1.88
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "PMU (FR)",
@@ -730,7 +764,8 @@
         "totals": {
           "over_2_5": 1.7,
           "under_2_5": 1.88
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "PMU (FR)",
@@ -751,7 +786,8 @@
         "totals": {
           "over_2_5": 2.28,
           "under_2_5": 1.45
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "PMU (FR)",
@@ -772,7 +808,8 @@
         "totals": {
           "over_2_5": 1.44,
           "under_2_5": 2.5
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "William Hill",
@@ -793,7 +830,8 @@
         "totals": {
           "over_2_5": 1.84,
           "under_2_5": 1.94
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Pinnacle",
@@ -814,7 +852,8 @@
         "totals": {
           "over_2_5": 1.78,
           "under_2_5": 1.78
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "PMU (FR)",
@@ -835,7 +874,8 @@
         "totals": {
           "over_2_5": 2.04,
           "under_2_5": 1.57
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "PMU (FR)",
@@ -856,7 +896,8 @@
         "totals": {
           "over_2_5": 1.88,
           "under_2_5": 1.7
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "PMU (FR)",
@@ -870,14 +911,15 @@
       "commence_time": "2026-06-22T21:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.1,
-          "draw": 9.0,
-          "away": 26.0
+          "home": 1.12,
+          "draw": 7.5,
+          "away": 23.0
         },
         "totals": {
-          "over_2_5": 1.44,
-          "under_2_5": 2.5
-        }
+          "over_2_5": 1.5,
+          "under_2_5": 2.4
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "William Hill",
@@ -891,17 +933,18 @@
       "commence_time": "2026-06-23T00:00:00Z",
       "odds": {
         "h2h": {
-          "home": 2.16,
-          "draw": 3.54,
-          "away": 3.52
+          "home": 2.15,
+          "draw": 3.25,
+          "away": 3.6
         },
         "totals": {
-          "over_2_5": 1.94,
-          "under_2_5": 1.88
-        }
+          "over_2_5": 1.76,
+          "under_2_5": 1.94
+        },
+        "first_scorer": []
       },
       "meta": {
-        "bookmaker": "1xBet",
+        "bookmaker": "Unibet (NL)",
         "league": "FIFA World Cup"
       }
     },
@@ -912,17 +955,18 @@
       "commence_time": "2026-06-23T03:00:00Z",
       "odds": {
         "h2h": {
-          "home": 5.55,
-          "draw": 3.94,
-          "away": 1.68
+          "home": 5.75,
+          "draw": 4.1,
+          "away": 1.56
         },
         "totals": {
-          "over_2_5": 1.96,
-          "under_2_5": 1.86
-        }
+          "over_2_5": 1.85,
+          "under_2_5": 1.85
+        },
+        "first_scorer": []
       },
       "meta": {
-        "bookmaker": "1xBet",
+        "bookmaker": "Unibet (NL)",
         "league": "FIFA World Cup"
       }
     },
@@ -940,7 +984,8 @@
         "totals": {
           "over_2_5": 1.5,
           "under_2_5": 2.4
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "William Hill",
@@ -961,7 +1006,8 @@
         "totals": {
           "over_2_5": 1.61,
           "under_2_5": 2.0
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "PMU (FR)",
@@ -982,7 +1028,8 @@
         "totals": {
           "over_2_5": 1.89,
           "under_2_5": 1.67
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "PMU (FR)",
@@ -1003,7 +1050,8 @@
         "totals": {
           "over_2_5": 2.12,
           "under_2_5": 1.65
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (NL)",
@@ -1018,13 +1066,14 @@
       "odds": {
         "h2h": {
           "home": 1.55,
-          "draw": 3.8,
-          "away": 5.7
+          "draw": 3.7,
+          "away": 5.8
         },
         "totals": {
           "over_2_5": 1.93,
           "under_2_5": 1.75
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Tipico",
@@ -1045,7 +1094,8 @@
         "totals": {
           "over_2_5": 2.05,
           "under_2_5": 1.67
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Tipico",
@@ -1066,7 +1116,8 @@
         "totals": {
           "over_2_5": 1.74,
           "under_2_5": 1.83
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "PMU (FR)",
@@ -1081,13 +1132,14 @@
       "odds": {
         "h2h": {
           "home": 1.2,
-          "draw": 5.7,
-          "away": 13.0
+          "draw": 5.8,
+          "away": 12.0
         },
         "totals": {
-          "over_2_5": 1.57,
-          "under_2_5": 2.25
-        }
+          "over_2_5": 1.62,
+          "under_2_5": 2.15
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Tipico",
@@ -1108,7 +1160,8 @@
         "totals": {
           "over_2_5": 2.11,
           "under_2_5": 1.7
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "GTbets",
@@ -1129,7 +1182,8 @@
         "totals": {
           "over_2_5": 2.11,
           "under_2_5": 1.7
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "GTbets",
@@ -1143,14 +1197,15 @@
       "commence_time": "2026-06-25T20:00:00Z",
       "odds": {
         "h2h": {
-          "home": 9.23,
+          "home": 9.56,
           "draw": 5.19,
           "away": 1.33
         },
         "totals": {
           "over_2_5": 1.77,
           "under_2_5": 2.02
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "GTbets",
@@ -1171,7 +1226,8 @@
         "totals": {
           "over_2_5": 1.87,
           "under_2_5": 1.91
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "GTbets",
@@ -1192,7 +1248,8 @@
         "totals": {
           "over_2_5": 1.97,
           "under_2_5": 1.72
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Tipico",
@@ -1213,7 +1270,8 @@
         "totals": {
           "over_2_5": 1.88,
           "under_2_5": 1.88
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "GTbets",
@@ -1234,7 +1292,8 @@
         "totals": {
           "over_2_5": 2.25,
           "under_2_5": 1.57
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Tipico",
@@ -1255,7 +1314,8 @@
         "totals": {
           "over_2_5": 2.01,
           "under_2_5": 1.78
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "GTbets",
@@ -1276,7 +1336,8 @@
         "totals": {
           "over_2_5": 1.98,
           "under_2_5": 1.81
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "GTbets",
@@ -1297,7 +1358,8 @@
         "totals": {
           "over_2_5": 1.91,
           "under_2_5": 1.87
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "GTbets",
@@ -1318,7 +1380,8 @@
         "totals": {
           "over_2_5": 2.2,
           "under_2_5": 1.6
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Tipico",
@@ -1339,7 +1402,8 @@
         "totals": {
           "over_2_5": 1.83,
           "under_2_5": 1.85
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Tipico",
@@ -1354,13 +1418,14 @@
       "odds": {
         "h2h": {
           "home": 9.71,
-          "draw": 5.74,
+          "draw": 5.58,
           "away": 1.3
         },
         "totals": {
           "over_2_5": 1.65,
           "under_2_5": 2.15
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "GTbets",
@@ -1381,7 +1446,8 @@
         "totals": {
           "over_2_5": 2.23,
           "under_2_5": 1.57
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (NL)",
@@ -1402,7 +1468,8 @@
         "totals": {
           "over_2_5": 2.0,
           "under_2_5": 1.7
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Tipico",
@@ -1416,14 +1483,15 @@
       "commence_time": "2026-06-27T21:00:00Z",
       "odds": {
         "h2h": {
-          "home": 12.0,
-          "draw": 5.7,
-          "away": 1.22
+          "home": 7.8,
+          "draw": 5.2,
+          "away": 1.3
         },
         "totals": {
-          "over_2_5": 1.6,
-          "under_2_5": 2.2
-        }
+          "over_2_5": 1.65,
+          "under_2_5": 2.1
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Tipico",
@@ -1444,7 +1512,8 @@
         "totals": {
           "over_2_5": 2.12,
           "under_2_5": 1.64
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Unibet (SE)",
@@ -1458,14 +1527,15 @@
       "commence_time": "2026-06-27T23:30:00Z",
       "odds": {
         "h2h": {
-          "home": 2.45,
+          "home": 2.25,
           "draw": 3.1,
-          "away": 2.8
+          "away": 3.1
         },
         "totals": {
           "over_2_5": 2.2,
           "under_2_5": 1.6
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "Tipico",
@@ -1486,7 +1556,8 @@
         "totals": {
           "over_2_5": 2.17,
           "under_2_5": 1.66
-        }
+        },
+        "first_scorer": []
       },
       "meta": {
         "bookmaker": "GTbets",
@@ -1500,19 +1571,38 @@
       "commence_time": "2026-06-28T02:00:00Z",
       "odds": {
         "h2h": {
-          "home": 14.2,
-          "draw": 7.14,
-          "away": 1.21
+          "home": 14.0,
+          "draw": 6.0,
+          "away": 1.18
         },
         "totals": {
-          "over_2_5": 1.56,
-          "under_2_5": 2.38
-        }
+          "over_2_5": 1.55,
+          "under_2_5": 2.25
+        },
+        "first_scorer": []
       },
       "meta": {
-        "bookmaker": "GTbets",
+        "bookmaker": "Tipico",
         "league": "FIFA World Cup"
       }
     }
-  ]
+  ],
+  "tournament_markets": [],
+  "notes": {
+    "missing_tournament_markets": [
+      "outrights",
+      "top_scorer",
+      "to_win_group",
+      "to_reach_round_of_32",
+      "to_reach_round_of_16",
+      "to_reach_quarter_finals",
+      "to_reach_semi_finals",
+      "to_reach_final",
+      "to_reach_third_place_playoff",
+      "to_finish_3rd"
+    ],
+    "missing_match_markets": [
+      "player_first_goal_scorer"
+    ]
+  }
 }

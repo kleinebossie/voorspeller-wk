@@ -1,95 +1,7 @@
 {
-  "generated_at": "2026-06-13T06:10:54.362650+00:00",
+  "generated_at": "2026-06-14T06:28:16.208939+00:00",
   "source": "the-odds-api",
   "matches": [
-    {
-      "id": "26634922d3f78c146440816023e40de8",
-      "home_team": "Qatar",
-      "away_team": "Switzerland",
-      "commence_time": "2026-06-13T19:00:00Z",
-      "odds": {
-        "h2h": {
-          "home": 17.0,
-          "draw": 7.0,
-          "away": 1.21
-        },
-        "totals": {
-          "over_2_5": 1.65,
-          "under_2_5": 2.28
-        },
-        "first_scorer": []
-      },
-      "meta": {
-        "bookmaker": "Unibet (SE)",
-        "league": "FIFA World Cup"
-      }
-    },
-    {
-      "id": "f6c8748a16516e0998f95de14235432a",
-      "home_team": "Brazil",
-      "away_team": "Morocco",
-      "commence_time": "2026-06-13T22:00:00Z",
-      "odds": {
-        "h2h": {
-          "home": 1.68,
-          "draw": 3.88,
-          "away": 5.45
-        },
-        "totals": {
-          "over_2_5": 2.06,
-          "under_2_5": 1.84
-        },
-        "first_scorer": []
-      },
-      "meta": {
-        "bookmaker": "Pinnacle",
-        "league": "FIFA World Cup"
-      }
-    },
-    {
-      "id": "5ae41a06735c926eeb7f74006933adce",
-      "home_team": "Haiti",
-      "away_team": "Scotland",
-      "commence_time": "2026-06-14T01:00:00Z",
-      "odds": {
-        "h2h": {
-          "home": 6.2,
-          "draw": 4.45,
-          "away": 1.57
-        },
-        "totals": {
-          "over_2_5": 1.87,
-          "under_2_5": 2.06
-        },
-        "first_scorer": []
-      },
-      "meta": {
-        "bookmaker": "Coolbet",
-        "league": "FIFA World Cup"
-      }
-    },
-    {
-      "id": "564084f52cc9f1abcc18187c168a7cdc",
-      "home_team": "Australia",
-      "away_team": "Turkey",
-      "commence_time": "2026-06-14T04:00:00Z",
-      "odds": {
-        "h2h": {
-          "home": 5.3,
-          "draw": 3.8,
-          "away": 1.75
-        },
-        "totals": {
-          "over_2_5": 2.07,
-          "under_2_5": 1.86
-        },
-        "first_scorer": []
-      },
-      "meta": {
-        "bookmaker": "Coolbet",
-        "league": "FIFA World Cup"
-      }
-    },
     {
       "id": "d79edbd6aaeb578d33e313446b18d333",
       "home_team": "Germany",
@@ -97,13 +9,13 @@
       "commence_time": "2026-06-14T17:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.05,
-          "draw": 15.0,
+          "home": 1.04,
+          "draw": 17.0,
           "away": 36.0
         },
         "totals": {
-          "over_2_5": 1.17,
-          "under_2_5": 4.8
+          "over_2_5": 1.18,
+          "under_2_5": 4.6
         },
         "first_scorer": []
       },
@@ -119,13 +31,13 @@
       "commence_time": "2026-06-14T20:00:00Z",
       "odds": {
         "h2h": {
-          "home": 2.01,
-          "draw": 3.64,
-          "away": 3.81
+          "home": 2.06,
+          "draw": 3.54,
+          "away": 3.74
         },
         "totals": {
-          "over_2_5": 1.96,
-          "under_2_5": 1.92
+          "over_2_5": 2.04,
+          "under_2_5": 1.85
         },
         "first_scorer": []
       },
@@ -141,13 +53,13 @@
       "commence_time": "2026-06-14T23:00:00Z",
       "odds": {
         "h2h": {
-          "home": 3.4,
-          "draw": 2.75,
+          "home": 3.1,
+          "draw": 2.9,
           "away": 2.4
         },
         "totals": {
-          "over_2_5": 2.9,
-          "under_2_5": 1.36
+          "over_2_5": 2.7,
+          "under_2_5": 1.4
         },
         "first_scorer": []
       },
@@ -163,8 +75,8 @@
       "commence_time": "2026-06-15T02:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.92,
-          "draw": 3.5,
+          "home": 1.93,
+          "draw": 3.45,
           "away": 4.6
         },
         "totals": {
@@ -190,8 +102,8 @@
           "away": 23.0
         },
         "totals": {
-          "over_2_5": 1.33,
-          "under_2_5": 3.1
+          "over_2_5": 1.35,
+          "under_2_5": 3.0
         },
         "first_scorer": []
       },
@@ -207,9 +119,9 @@
       "commence_time": "2026-06-15T19:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.61,
-          "draw": 4.09,
-          "away": 5.9
+          "home": 1.62,
+          "draw": 4.05,
+          "away": 5.78
         },
         "totals": {
           "over_2_5": 2.01,
@@ -229,18 +141,18 @@
       "commence_time": "2026-06-15T22:00:00Z",
       "odds": {
         "h2h": {
-          "home": 8.2,
-          "draw": 4.52,
-          "away": 1.44
+          "home": 8.6,
+          "draw": 4.5,
+          "away": 1.46
         },
         "totals": {
-          "over_2_5": 2.07,
-          "under_2_5": 1.83
+          "over_2_5": 2.1,
+          "under_2_5": 1.84
         },
         "first_scorer": []
       },
       "meta": {
-        "bookmaker": "Pinnacle",
+        "bookmaker": "Coolbet",
         "league": "FIFA World Cup"
       }
     },
@@ -273,13 +185,13 @@
       "commence_time": "2026-06-16T19:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.48,
-          "draw": 4.46,
-          "away": 7.31
+          "home": 1.47,
+          "draw": 4.53,
+          "away": 7.36
         },
         "totals": {
-          "over_2_5": 2.01,
-          "under_2_5": 1.88
+          "over_2_5": 1.97,
+          "under_2_5": 1.92
         },
         "first_scorer": []
       },
@@ -295,13 +207,13 @@
       "commence_time": "2026-06-16T22:00:00Z",
       "odds": {
         "h2h": {
-          "home": 19.0,
-          "draw": 5.95,
-          "away": 1.23
+          "home": 17.5,
+          "draw": 7.1,
+          "away": 1.19
         },
         "totals": {
-          "over_2_5": 1.6,
-          "under_2_5": 2.38
+          "over_2_5": 1.58,
+          "under_2_5": 2.42
         },
         "first_scorer": []
       },
@@ -317,13 +229,13 @@
       "commence_time": "2026-06-17T01:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.41,
+          "home": 1.4,
           "draw": 4.57,
-          "away": 9.07
+          "away": 9.33
         },
         "totals": {
-          "over_2_5": 1.97,
-          "under_2_5": 1.92
+          "over_2_5": 2.01,
+          "under_2_5": 1.88
         },
         "first_scorer": []
       },
@@ -339,13 +251,13 @@
       "commence_time": "2026-06-17T04:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.29,
-          "draw": 6.25,
-          "away": 11.5
+          "home": 1.3,
+          "draw": 6.1,
+          "away": 10.0
         },
         "totals": {
-          "over_2_5": 1.56,
-          "under_2_5": 2.35
+          "over_2_5": 1.6,
+          "under_2_5": 2.3
         },
         "first_scorer": []
       },
@@ -366,8 +278,8 @@
           "away": 12.0
         },
         "totals": {
-          "over_2_5": 1.7,
-          "under_2_5": 2.17
+          "over_2_5": 1.71,
+          "under_2_5": 2.16
         },
         "first_scorer": []
       },
@@ -407,7 +319,7 @@
         "h2h": {
           "home": 2.1,
           "draw": 3.3,
-          "away": 3.4
+          "away": 3.3
         },
         "totals": {
           "over_2_5": 2.15,
@@ -427,8 +339,8 @@
       "commence_time": "2026-06-18T02:00:00Z",
       "odds": {
         "h2h": {
-          "home": 9.18,
-          "draw": 4.74,
+          "home": 9.19,
+          "draw": 4.75,
           "away": 1.39
         },
         "totals": {
@@ -472,12 +384,12 @@
       "odds": {
         "h2h": {
           "home": 1.6,
-          "draw": 4.0,
-          "away": 6.4
+          "draw": 4.1,
+          "away": 6.5
         },
         "totals": {
-          "over_2_5": 2.02,
-          "under_2_5": 1.82
+          "over_2_5": 2.12,
+          "under_2_5": 1.74
         },
         "first_scorer": []
       },
@@ -493,13 +405,13 @@
       "commence_time": "2026-06-18T22:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.32,
-          "draw": 5.3,
-          "away": 12.0
+          "home": 1.27,
+          "draw": 6.0,
+          "away": 14.0
         },
         "totals": {
-          "over_2_5": 1.89,
-          "under_2_5": 1.92
+          "over_2_5": 1.82,
+          "under_2_5": 2.02
         },
         "first_scorer": []
       },
@@ -520,8 +432,8 @@
           "away": 4.1
         },
         "totals": {
-          "over_2_5": 2.3,
-          "under_2_5": 1.64
+          "over_2_5": 2.33,
+          "under_2_5": 1.62
         },
         "first_scorer": []
       },
@@ -537,13 +449,13 @@
       "commence_time": "2026-06-19T19:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.65,
-          "draw": 3.97,
-          "away": 5.68
+          "home": 1.56,
+          "draw": 4.18,
+          "away": 5.66
         },
         "totals": {
-          "over_2_5": 2.0,
-          "under_2_5": 1.79
+          "over_2_5": 1.94,
+          "under_2_5": 1.84
         },
         "first_scorer": []
       },
@@ -559,13 +471,13 @@
       "commence_time": "2026-06-19T22:00:00Z",
       "odds": {
         "h2h": {
-          "home": 4.5,
-          "draw": 3.45,
-          "away": 1.93
+          "home": 5.3,
+          "draw": 3.7,
+          "away": 1.79
         },
         "totals": {
-          "over_2_5": 2.28,
-          "under_2_5": 1.65
+          "over_2_5": 2.2,
+          "under_2_5": 1.7
         },
         "first_scorer": []
       },
@@ -581,13 +493,13 @@
       "commence_time": "2026-06-20T01:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.07,
-          "draw": 12.0,
-          "away": 29.0
+          "home": 1.1,
+          "draw": 10.0,
+          "away": 21.0
         },
         "totals": {
-          "over_2_5": 1.25,
-          "under_2_5": 3.5
+          "over_2_5": 1.3,
+          "under_2_5": 3.2
         },
         "first_scorer": []
       },
@@ -604,12 +516,12 @@
       "odds": {
         "h2h": {
           "home": 2.07,
-          "draw": 3.35,
+          "draw": 3.4,
           "away": 4.0
         },
         "totals": {
-          "over_2_5": 2.25,
-          "under_2_5": 1.62
+          "over_2_5": 2.2,
+          "under_2_5": 1.64
         },
         "first_scorer": []
       },
@@ -647,13 +559,13 @@
       "commence_time": "2026-06-20T20:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.5,
-          "draw": 4.1,
-          "away": 6.0
+          "home": 1.56,
+          "draw": 3.95,
+          "away": 5.5
         },
         "totals": {
-          "over_2_5": 1.75,
-          "under_2_5": 1.93
+          "over_2_5": 1.79,
+          "under_2_5": 1.89
         },
         "first_scorer": []
       },
@@ -669,13 +581,13 @@
       "commence_time": "2026-06-21T00:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.2,
+          "home": 1.19,
           "draw": 6.25,
           "away": 14.0
         },
         "totals": {
-          "over_2_5": 1.6,
-          "under_2_5": 2.16
+          "over_2_5": 1.62,
+          "under_2_5": 2.12
         },
         "first_scorer": []
       },
@@ -713,9 +625,9 @@
       "commence_time": "2026-06-21T16:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.08,
-          "draw": 10.0,
-          "away": 23.0
+          "home": 1.11,
+          "draw": 9.0,
+          "away": 26.0
         },
         "totals": {
           "over_2_5": 1.44,
@@ -735,13 +647,13 @@
       "commence_time": "2026-06-21T19:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.38,
-          "draw": 4.58,
-          "away": 7.6
+          "home": 1.36,
+          "draw": 4.67,
+          "away": 7.87
         },
         "totals": {
-          "over_2_5": 1.84,
-          "under_2_5": 1.95
+          "over_2_5": 1.82,
+          "under_2_5": 1.97
         },
         "first_scorer": []
       },
@@ -757,13 +669,13 @@
       "commence_time": "2026-06-21T22:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.43,
-          "draw": 4.2,
-          "away": 7.0
+          "home": 1.4,
+          "draw": 4.4,
+          "away": 8.0
         },
         "totals": {
-          "over_2_5": 1.87,
-          "under_2_5": 1.81
+          "over_2_5": 1.83,
+          "under_2_5": 1.85
         },
         "first_scorer": []
       },
@@ -824,7 +736,7 @@
       "odds": {
         "h2h": {
           "home": 1.12,
-          "draw": 7.5,
+          "draw": 8.0,
           "away": 26.0
         },
         "totals": {
@@ -845,9 +757,9 @@
       "commence_time": "2026-06-23T00:00:00Z",
       "odds": {
         "h2h": {
-          "home": 2.19,
-          "draw": 3.55,
-          "away": 3.46
+          "home": 2.2,
+          "draw": 3.54,
+          "away": 3.48
         },
         "totals": {
           "over_2_5": 1.95,
@@ -867,13 +779,13 @@
       "commence_time": "2026-06-23T03:00:00Z",
       "odds": {
         "h2h": {
-          "home": 6.79,
-          "draw": 4.23,
-          "away": 1.56
+          "home": 7.01,
+          "draw": 4.32,
+          "away": 1.53
         },
         "totals": {
           "over_2_5": 1.92,
-          "under_2_5": 1.91
+          "under_2_5": 1.9
         },
         "first_scorer": []
       },
@@ -889,18 +801,18 @@
       "commence_time": "2026-06-23T17:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.24,
-          "draw": 5.75,
-          "away": 10.5
+          "home": 1.26,
+          "draw": 6.19,
+          "away": 14.2
         },
         "totals": {
-          "over_2_5": 1.49,
-          "under_2_5": 2.4
+          "over_2_5": 1.59,
+          "under_2_5": 2.39
         },
         "first_scorer": []
       },
       "meta": {
-        "bookmaker": "PMU (FR)",
+        "bookmaker": "1xBet",
         "league": "FIFA World Cup"
       }
     },
@@ -955,13 +867,13 @@
       "commence_time": "2026-06-24T02:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.53,
-          "draw": 4.2,
-          "away": 7.5
+          "home": 1.49,
+          "draw": 4.3,
+          "away": 8.0
         },
         "totals": {
-          "over_2_5": 2.08,
-          "under_2_5": 1.71
+          "over_2_5": 2.06,
+          "under_2_5": 1.73
         },
         "first_scorer": []
       },
@@ -977,18 +889,18 @@
       "commence_time": "2026-06-24T19:00:00Z",
       "odds": {
         "h2h": {
-          "home": 1.64,
-          "draw": 3.91,
-          "away": 5.68
+          "home": 1.57,
+          "draw": 4.12,
+          "away": 6.75
         },
         "totals": {
-          "over_2_5": 2.05,
-          "under_2_5": 1.75
+          "over_2_5": 2.04,
+          "under_2_5": 1.8
         },
         "first_scorer": []
       },
       "meta": {
-        "bookmaker": "GTbets",
+        "bookmaker": "1xBet",
         "league": "FIFA World Cup"
       }
     },
@@ -999,18 +911,18 @@
       "commence_time": "2026-06-24T19:00:00Z",
       "odds": {
         "h2h": {
-          "home": 2.1,
-          "draw": 3.47,
-          "away": 3.64
+          "home": 2.19,
+          "draw": 3.44,
+          "away": 3.6
         },
         "totals": {
-          "over_2_5": 2.08,
-          "under_2_5": 1.73
+          "over_2_5": 2.11,
+          "under_2_5": 1.75
         },
         "first_scorer": []
       },
       "meta": {
-        "bookmaker": "GTbets",
+        "bookmaker": "1xBet",
         "league": "FIFA World Cup"
       }
     },
@@ -1045,11 +957,11 @@
         "h2h": {
           "home": 1.36,
           "draw": 5.08,
-          "away": 9.4
+          "away": 9.96
         },
         "totals": {
-          "over_2_5": 1.72,
-          "under_2_5": 2.14
+          "over_2_5": 1.67,
+          "under_2_5": 2.22
         },
         "first_scorer": []
       },
@@ -1109,7 +1021,7 @@
       "commence_time": "2026-06-25T20:00:00Z",
       "odds": {
         "h2h": {
-          "home": 14.67,
+          "home": 13.55,
           "draw": 6.38,
           "away": 1.24
         },
@@ -1177,7 +1089,7 @@
         "h2h": {
           "home": 6.14,
           "draw": 4.12,
-          "away": 1.61
+          "away": 1.53
         },
         "totals": {
           "over_2_5": 1.88,
@@ -1199,7 +1111,7 @@
         "h2h": {
           "home": 2.18,
           "draw": 3.31,
-          "away": 3.47
+          "away": 3.65
         },
         "totals": {
           "over_2_5": 2.24,
@@ -1285,13 +1197,13 @@
       "commence_time": "2026-06-27T00:00:00Z",
       "odds": {
         "h2h": {
-          "home": 2.43,
-          "draw": 3.41,
-          "away": 2.9
+          "home": 2.54,
+          "draw": 3.6,
+          "away": 2.74
         },
         "totals": {
           "over_2_5": 2.09,
-          "under_2_5": 1.7
+          "under_2_5": 1.76
         },
         "first_scorer": []
       },
@@ -1329,7 +1241,7 @@
       "commence_time": "2026-06-27T03:00:00Z",
       "odds": {
         "h2h": {
-          "home": 9.85,
+          "home": 9.48,
           "draw": 5.58,
           "away": 1.3
         },
@@ -1395,7 +1307,7 @@
       "commence_time": "2026-06-27T21:00:00Z",
       "odds": {
         "h2h": {
-          "home": 9.76,
+          "home": 9.69,
           "draw": 5.87,
           "away": 1.32
         },
@@ -1483,7 +1395,7 @@
       "commence_time": "2026-06-28T02:00:00Z",
       "odds": {
         "h2h": {
-          "home": 14.93,
+          "home": 13.92,
           "draw": 6.79,
           "away": 1.21
         },
